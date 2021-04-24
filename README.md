@@ -1,9 +1,10 @@
-#Repositório de exercícios#
+# Repositório de exercícios
 
-##Linguagens:##
+## Linguagens:
 
 **Python3**
 	Curso em Vídeo <https://youtu.be/S9uPNppGsGo>
+	
 	* Mundo 1
 	* Mundo 2
 	* Mundo 3
