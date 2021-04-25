@@ -3,7 +3,7 @@
 ## Linguagens:
 
 **Python3**
-	Curso em Vídeo <https://youtu.be/S9uPNppGsGo>
+	Curso em Vídeo <https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6>
 	
 	* Mundo 1
 	* Mundo 2
