@@ -1,0 +1,88 @@
+Python Guido Van Rossun - 1991
+Zen do Python > import this
+
+Interpretada - Scripts
+
+Tipos Primitivos:
+	int
+	float
+	bool
+	str
+
+Operadores Aritméticos
+	**	Potenciação
+	* / 	Multiplicação, Divisão Inteira
+	// %	Divisão Inteira, Módulo
+	+ - 	Soma, Subtração
+	
+Formatação
+	.format()
+	f{}	
+	<, > , ^	Alinhamento: esquerda, direita, centro
+	
+Comentários
+	#, ''' '''	Linha única, multíplas linhas
+	
+Métodos String
+	len, count, find, replace, strip, upper, split
+	tamanho, contar, encontrar, alterar, separar, maiúscula
+	dividir
+	
+Módulos
+	import <pacote>
+	from <pacote> import <módulo>
+	
+Colors
+	\033[x;x;xm	style 0-7 , texto 30-37, background 40-47
+	
+Tipos	índice inicio em 0
+	Tuplas ()
+	Listas []
+	Dicionário {} key:value
+	
+Condicionias 	identação marca o bloco
+
+	if condição :
+	else/elif:
+
+Loops 
+	while condição: (flag)
+	
+	for inicio, fim, passo
+	for x in range
+		k,v enumerate
+
+Funções
+
+	def nome():
+		docstrings ''' '''
+		return
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
