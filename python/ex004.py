@@ -1,4 +1,4 @@
-#Mostrando informações do dado recebido
+#Mostrar informações do dado recebido
 
 dado = input("Entre com um dado: ")
 

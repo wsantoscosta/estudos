@@ -10,6 +10,3 @@
 	* Mundo 3
 	* Exercícios
 	
-**C/C++**
-
-	Livros / apostilas
