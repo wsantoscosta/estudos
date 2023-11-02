@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+        body {
+            background-color: rgb(105, 105, 173);
+            color: white;
+            font: normal 25pt Arial;
+        }
+        h1 {
+            color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <h1>Olá, mundo! (Hello, World!)</h1>
+    <p>Já me livrei da maldição.</p>
+
+    <script>
+        var n1 = Number.parseInt(window.prompt("Digite um número: ")); // ou só Number()
+        var n2 = Number.parseInt(window.prompt("Digite outro número: "));
+        var soma = n1 + n2
+        // window.alert('A soma dos valores digitados é ' + String(soma) )
+        window.alert(`A soma dos valores ${n1} com ${n2} é ${soma}`); // com placeholder
+    </script>
+</body>
+</html>
