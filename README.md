@@ -9,4 +9,5 @@
 	* Mundo 2
 	* Mundo 3
 	* Exercícios
-	
+**JavaScript**
+	Curso em Vídeo <https://youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&si=KClmfDcyIqjBEAox>
