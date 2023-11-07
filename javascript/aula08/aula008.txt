@@ -1,0 +1,1 @@
+Relacionais, Lógicos e Ternário.
