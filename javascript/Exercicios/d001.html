@@ -14,14 +14,14 @@
     <script>
         function verificar(){
             var pais = document.getElementById("txtpais");
-            var xpais = String(pais.value)
-            xpais.toUpperCase
+            var xpais = String(pais.value);
+            
             var res = document.querySelector("div#msg");
             
-            res.innerHTML = (`<p>Seu país natal é <strong>${xpais.toUpperCase()}.</strong></p>`)
+            res.innerHTML = `<p>Seu país natal é <strong>${xpais}</strong>.</p>`;
 
-            if (xpais == 'BRASIL'){
-                res.innerHTML += (`<p>Você é <strong>Brasileiro</strong></p>`);
+            if (xpais.toUpperCase() == 'BRASIL'){
+                res.innerHTML += `<p>Você é <strong>Brasileiro</strong>.</p>`;
             
             } else {
                 res.innerHTML += "Você é <strong>Estrangeiro</strong>"
